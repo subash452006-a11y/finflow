@@ -1,0 +1,2 @@
+@tailwind base; @tailwind components; @tailwind utilities;
+body { @apply bg-[#0b0b14] text-slate-100 antialiased; background-image: radial-gradient(60rem 30rem at 10% -10%, #4c1d9577, transparent), radial-gradient(50rem 30rem at 100% 0, #0e749066, transparent); background-attachment: fixed; }
